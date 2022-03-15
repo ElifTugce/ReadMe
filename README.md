@@ -1,7 +1,8 @@
 # ReadMe
-
 <h1 align="center">Hi 👋, I'm Elif Tuğçe Demir</h1>
 <h3 align="center">I like computer science with all fields</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliftugce" alt="eliftugce" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, BOOTSTRAP, REACT NATIVE**
 
